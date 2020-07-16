@@ -6,5 +6,5 @@ while number < 10
   n -= 1
 return ("HAPPY NEW YEAR!")
 end
-countdown_with_sleep(5)
+def countdown_with_sleep(5)
   end
